@@ -69,14 +69,6 @@ const priyanshu = {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Gupta-PG&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
@@ -104,25 +96,6 @@ const priyanshu = {
 - 👯 Looking to collaborate on **innovative open-source projects**
 - 🎯 2026 Goals: Contribute to 50+ open source projects
 - ⚡ Currently exploring: **Rust**, **Go**, and **WebAssembly**
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable REST APIs with Node.js](#)
-- [React Performance Optimization Tips](#)
-- [Docker Best Practices for Developers](#)
-- [Understanding Database Indexing](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎯 Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Priyanshu&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="WakaTime Stats" />
-</p>
 
 ---
 
