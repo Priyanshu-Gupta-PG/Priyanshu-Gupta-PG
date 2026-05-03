@@ -50,18 +50,7 @@ const priyanshu = {
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,prisma,graphql,git,docker,kubernetes,aws,gcp,linux,nginx,jenkins" alt="Databases & DevOps" />
 </p>
 
-### 📌 Pinned Projects
 
-<div align="center">
-  <a href="https://github.com/Priyanshu-Gupta-PG/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu-Gupta-PG&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Priyanshu-Gupta-PG/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu-Gupta-PG&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
----
 
 ### 💼 What I'm Currently Working On
 
