@@ -50,32 +50,6 @@ const priyanshu = {
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,prisma,graphql,git,docker,kubernetes,aws,gcp,linux,nginx,jenkins" alt="Databases & DevOps" />
 </p>
 
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Gupta-PG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Gupta-PG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Gupta-PG&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Gupta-PG&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-### 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ### 📌 Pinned Projects
 
 <div align="center">
